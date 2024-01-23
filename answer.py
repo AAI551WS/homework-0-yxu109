@@ -21,3 +21,7 @@ def add(a, b):
   
     output = a + b
     return output
+
+# test
+hello_world()
+add(1,2)
